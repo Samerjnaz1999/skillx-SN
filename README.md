@@ -1,1 +1,2 @@
-# this is our first repounder skillx program 
+# This is our first repo under Skillx program 
+# This has been created by Samer 
